@@ -1,0 +1,15 @@
+v2\lv_draw_vg_lite_fill.o: ..\LVGL\src\draw\vg_lite\lv_draw_vg_lite_fill.c
+v2\lv_draw_vg_lite_fill.o: ..\LVGL\src\draw\vg_lite\../../misc/lv_area_private.h
+v2\lv_draw_vg_lite_fill.o: ..\LVGL\src\draw\vg_lite\../../misc/lv_area.h
+v2\lv_draw_vg_lite_fill.o: ..\LVGL\src\draw\vg_lite\../../misc/../lv_conf_internal.h
+v2\lv_draw_vg_lite_fill.o: ..\LVGL\src\draw\vg_lite\../../misc/../lv_conf_kconfig.h
+v2\lv_draw_vg_lite_fill.o: ../LVGL/examples/porting/../../lv_conf.h
+v2\lv_draw_vg_lite_fill.o: ..\LVGL\src\draw\vg_lite\../../misc/lv_types.h
+v2\lv_draw_vg_lite_fill.o: D:\KEIL\ARM\ARMCC\Bin\..\include\stdint.h
+v2\lv_draw_vg_lite_fill.o: D:\KEIL\ARM\ARMCC\Bin\..\include\stddef.h
+v2\lv_draw_vg_lite_fill.o: D:\KEIL\ARM\ARMCC\Bin\..\include\stdbool.h
+v2\lv_draw_vg_lite_fill.o: D:\KEIL\ARM\ARMCC\Bin\..\include\inttypes.h
+v2\lv_draw_vg_lite_fill.o: D:\KEIL\ARM\ARMCC\Bin\..\include\limits.h
+v2\lv_draw_vg_lite_fill.o: D:\KEIL\ARM\ARMCC\Bin\..\include\stdarg.h
+v2\lv_draw_vg_lite_fill.o: ..\LVGL\src\draw\vg_lite\../../misc/lv_math.h
+v2\lv_draw_vg_lite_fill.o: ..\LVGL\src\draw\vg_lite\lv_draw_vg_lite.h

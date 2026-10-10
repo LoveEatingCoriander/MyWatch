@@ -1,0 +1,1 @@
+GEN_CSRCS += _heart_alpha_50x50.c _humidity_alpha_50x50.c _temp_alpha_50x50.c

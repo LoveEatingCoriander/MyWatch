@@ -1,0 +1,13 @@
+v2\lv_mem_core_micropython.o: ..\LVGL\src\stdlib\micropython\lv_mem_core_micropython.c
+v2\lv_mem_core_micropython.o: ..\LVGL\src\stdlib\micropython\../lv_mem.h
+v2\lv_mem_core_micropython.o: ..\LVGL\src\stdlib\micropython\../../lv_conf_internal.h
+v2\lv_mem_core_micropython.o: ..\LVGL\src\stdlib\micropython\../../lv_conf_kconfig.h
+v2\lv_mem_core_micropython.o: ../LVGL/examples/porting/../../lv_conf.h
+v2\lv_mem_core_micropython.o: ..\LVGL\src\stdlib\micropython\../lv_string.h
+v2\lv_mem_core_micropython.o: ..\LVGL\src\stdlib\micropython\../../misc/lv_types.h
+v2\lv_mem_core_micropython.o: D:\KEIL\ARM\ARMCC\Bin\..\include\stdint.h
+v2\lv_mem_core_micropython.o: D:\KEIL\ARM\ARMCC\Bin\..\include\stddef.h
+v2\lv_mem_core_micropython.o: D:\KEIL\ARM\ARMCC\Bin\..\include\stdbool.h
+v2\lv_mem_core_micropython.o: D:\KEIL\ARM\ARMCC\Bin\..\include\inttypes.h
+v2\lv_mem_core_micropython.o: D:\KEIL\ARM\ARMCC\Bin\..\include\limits.h
+v2\lv_mem_core_micropython.o: D:\KEIL\ARM\ARMCC\Bin\..\include\stdarg.h

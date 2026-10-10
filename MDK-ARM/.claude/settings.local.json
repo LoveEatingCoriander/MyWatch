@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(ls -la d:/STM32_Project/MyWatch/V2/)",
+      "Read(//d/STM32_Project/MyWatch/V2/**)"
+    ]
+  }
+}

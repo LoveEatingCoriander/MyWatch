@@ -1,0 +1,17 @@
+v2\lv_os_none.o: ..\LVGL\src\osal\lv_os_none.c
+v2\lv_os_none.o: ..\LVGL\src\osal\lv_os.h
+v2\lv_os_none.o: ..\LVGL\src\osal\../lv_conf_internal.h
+v2\lv_os_none.o: ..\LVGL\src\osal\../lv_conf_kconfig.h
+v2\lv_os_none.o: ../LVGL/examples/porting/../../lv_conf.h
+v2\lv_os_none.o: ..\LVGL\src\osal\../misc/lv_types.h
+v2\lv_os_none.o: D:\KEIL\ARM\ARMCC\Bin\..\include\stdint.h
+v2\lv_os_none.o: D:\KEIL\ARM\ARMCC\Bin\..\include\stddef.h
+v2\lv_os_none.o: D:\KEIL\ARM\ARMCC\Bin\..\include\stdbool.h
+v2\lv_os_none.o: D:\KEIL\ARM\ARMCC\Bin\..\include\inttypes.h
+v2\lv_os_none.o: D:\KEIL\ARM\ARMCC\Bin\..\include\limits.h
+v2\lv_os_none.o: D:\KEIL\ARM\ARMCC\Bin\..\include\stdarg.h
+v2\lv_os_none.o: ..\LVGL\src\osal\lv_os_none.h
+v2\lv_os_none.o: ..\LVGL\src\osal\../misc/lv_assert.h
+v2\lv_os_none.o: ..\LVGL\src\osal\../misc/lv_log.h
+v2\lv_os_none.o: ..\LVGL\src\osal\../misc/../stdlib/lv_mem.h
+v2\lv_os_none.o: ..\LVGL\src\osal\../misc/../stdlib/lv_string.h
